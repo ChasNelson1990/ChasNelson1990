@@ -2,9 +2,8 @@
 
 Chartered Biologist and PhD data scientist focussed on using data to change the world for the better.
 
-* Founder, Director and Chief Technology Officer @ [gliff.ai](https://gliff.ai).
-* Data Scientist @ [Fjelltopp](https://www.fjelltopp.org/).
-* Honorary Research Fellow @ [University of Glasgow](https://www.gla.ac.uk/).
+* Data Consultant @ [Fjelltopp](https://www.fjelltopp.org/).
+* International Technical Advisor @ [FAO Bangladesh](https://www.fao.org/).
 * Depute Chair (Policy) @ [Royal Society of Biology](https://www.rsb.org.uk/) in Scotland. 
 * Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://www.rms.org.uk/community/science-sections/image-analysis.html). 
 
